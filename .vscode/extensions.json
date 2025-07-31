@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "esbenp.prettier-vscode",
+    "charliermarsh.ruff",
+    "formulahendry.code-runner",
+    "be5invis.toml", // TOML
+    "wakatime.vscode-wakatime",
+    "mechatroner.rainbow-csv",
+    "usernamehw.errorlens",
+    "genaiscript.genaiscript-vscode",
+    "github.copilot",
+    "vscode-icons-team.vscode-icons",
+    // "bradlc.vscode-tailwindcss",
+    // "chadalen.vscode-jetbrains-icon-theme",
+    // "omthemes.omthemes"
+  ]
+}
