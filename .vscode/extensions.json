@@ -4,15 +4,21 @@
     "esbenp.prettier-vscode",
     "charliermarsh.ruff",
     "formulahendry.code-runner",
-    "be5invis.toml", // TOML
+    "be5invis.toml",
     "wakatime.vscode-wakatime",
     "mechatroner.rainbow-csv",
     "usernamehw.errorlens",
     "genaiscript.genaiscript-vscode",
     "github.copilot",
     "vscode-icons-team.vscode-icons",
-    // "bradlc.vscode-tailwindcss",
-    // "chadalen.vscode-jetbrains-icon-theme",
-    // "omthemes.omthemes"
+    "marimo-team.vscode-marimo",
+    "naumovs.color-highlight",
+    "eamodio.gitlens",
+    "davidanson.vscode-markdownlint",
+    "inferrinizzard.prettier-sql-vscode",
+    "alexcvzz.vscode-sqlite",
+    "dotjoshjohnson.xml",
+    "redhat.vscode-yaml",
+    "vscode.theme-monokai-dimmed"
   ]
 }

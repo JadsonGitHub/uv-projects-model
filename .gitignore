@@ -1,6 +1,9 @@
 .DS_Store
 db.json
 
+# Pasta Pessoal
+.pessoal/
+
 # VSCode Workspace
 # .vscode
 
